@@ -1,13 +1,13 @@
 {
-  "name": "⁠𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐗𝐌𝐃 𝐁𝐎𝐓",
-  "description": "RAHMANI-XMD Whatsapp device bot made by Rahmani Md to help Whatsapp users to enjoy while helping...",
+  "name": "⁠ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  𝐁𝐎𝐓",
+  "description": "ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  Whatsapp device bot made by 🄾🄱🄴🄳 🅃🄴🄲🄷 to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/aktbgo.jpg",
+  "logo": "https://files.catbox.moe/db7508.jpg",
   "repository": "https://github.com/Qartde/RAHMANI-XMD",
   "succes_url": "/",
   "stack": "container",
@@ -55,7 +55,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "⁠RAHMANI-XMD",
+      "value": "⁠ᏦᏆᏞᏞᎬᎡ ХᎷᎠ ",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -80,12 +80,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "RAHMANI-XMD",
+      "value": "🄾🄱🄴🄳 🅃🄴🄲🄷",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/aktbgo.jpg",
+      "value": "https://files.catbox.moe/db7508.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -95,7 +95,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255693629079')",
-      "value": "255693629079",
+      "value": "254791637868",
       "required": false
     },
     "WARN_COUNT": {
